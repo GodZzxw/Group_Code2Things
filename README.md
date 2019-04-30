@@ -1,5 +1,6 @@
 # Group_Code2Things
 ## Group_4
+<<<<<<< HEAD
 TEAM NO.4
 TEAM LEADER:杨建煜,2018111872 
 TEAM PARTNER:
@@ -84,3 +85,7 @@ TEAM PARTNER:
                 组装		
                 调试		
     第十六周			
+=======
+This is a test;
+..
+>>>>>>> 0f51343350515b909777b947255beb01b169b21b
