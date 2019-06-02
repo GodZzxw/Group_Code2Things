@@ -1,0 +1,10 @@
+#include<stdio.h>
+const int offset=1;
+const int time=14400;
+void setup() {
+  pinMode(offset,INPUT);
+  delay(time);
+  pinMode(offset,OUTPUT);
+}
+void loop() {
+}
